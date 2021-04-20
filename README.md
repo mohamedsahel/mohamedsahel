@@ -10,13 +10,10 @@
 
 - 👨‍💻 All of my projects are available at [mohamedsahel.com](mohamedsahel.com)
 
-- 💬 Ask me about **Javascript, react**
+- 💬 Linkedin [@mohamedsahel](linkedin/in/mohamedsahel)
 
 - ⚡ Fun fact **No idea**
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/mohamedsahel?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
-## 🙋‍♂️ Connect with me:
 
 ## 📘 My top open source projects
 
@@ -30,9 +27,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/mohamedsahel/qat"><b>LaTeX-Gboard-Dictionary</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mohamedsahel/qat?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mohamedsahel/qat?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
