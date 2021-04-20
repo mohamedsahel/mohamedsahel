@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [mohamedsahel.com](https://mohamedsahel.com)
 
-- 💬 Linkedin [@mohamedsahel](https://linkedin/in/mohamedsahel)
+- 💬 Linkedin [@mohamedsahel](https://linkedin.com/in/mohamedsahel)
 
 - ⚡ Fun fact **No idea**
 
@@ -42,7 +42,7 @@
 
 
 <p align="left">
-  <a href="https://github.com/mohamedsahel?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+  <a href="https://mohamedsahel.com"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
 
 ## 👨‍💻 Languages and Tools:
