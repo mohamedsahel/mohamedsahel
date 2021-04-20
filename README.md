@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Mohamed Sahel</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on [SalesCovers](salescovers.com)
+- 🔭 I’m currently working on [SalesCovers](https://salescovers.com)
 
-- 👨‍💻 All of my projects are available at [mohamedsahel.com](mohamedsahel.com)
+- 👨‍💻 All of my projects are available at [mohamedsahel.com](https://mohamedsahel.com)
 
-- 💬 Linkedin [@mohamedsahel](linkedin/in/mohamedsahel)
+- 💬 Linkedin [@mohamedsahel](https://linkedin/in/mohamedsahel)
 
 - ⚡ Fun fact **No idea**
 
