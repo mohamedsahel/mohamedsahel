@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sahel</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on [SalesCovers](https://salescovers.com)
+- 🔭 I’m currently working on [ReplyGrowth](https://replygrowth.com)
 
 - 👨‍💻 All of my projects are available at [mohamedsahel.com](https://mohamedsahel.com)
 
